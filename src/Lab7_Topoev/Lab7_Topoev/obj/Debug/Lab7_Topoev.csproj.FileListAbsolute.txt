@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\Lab7_Topoev\Lab7_Topoev\bin\Debug\Lab7_Topoev.exe.config
+C:\Users\User\source\repos\Lab7_Topoev\Lab7_Topoev\bin\Debug\Lab7_Topoev.exe
+C:\Users\User\source\repos\Lab7_Topoev\Lab7_Topoev\bin\Debug\Lab7_Topoev.pdb
+C:\Users\User\source\repos\Lab7_Topoev\Lab7_Topoev\obj\Debug\Lab7_Topoev.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Lab7_Topoev\Lab7_Topoev\obj\Debug\Lab7_Topoev.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Lab7_Topoev\Lab7_Topoev\obj\Debug\Lab7_Topoev.exe
+C:\Users\User\source\repos\Lab7_Topoev\Lab7_Topoev\obj\Debug\Lab7_Topoev.pdb
+C:\Users\User\source\repos\Lab7_Topoev\Lab7_Topoev\bin\Debug\Lab7_Topoev.xml
+C:\Users\User\Desktop\lab7-topoev\src\Lab7_Topoev\Lab7_Topoev\bin\Debug\Lab7_Topoev.exe.config
+C:\Users\User\Desktop\lab7-topoev\src\Lab7_Topoev\Lab7_Topoev\bin\Debug\Lab7_Topoev.xml
+C:\Users\User\Desktop\lab7-topoev\src\Lab7_Topoev\Lab7_Topoev\bin\Debug\Lab7_Topoev.exe
+C:\Users\User\Desktop\lab7-topoev\src\Lab7_Topoev\Lab7_Topoev\bin\Debug\Lab7_Topoev.pdb
+C:\Users\User\Desktop\lab7-topoev\src\Lab7_Topoev\Lab7_Topoev\obj\Debug\Lab7_Topoev.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\lab7-topoev\src\Lab7_Topoev\Lab7_Topoev\obj\Debug\Lab7_Topoev.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\lab7-topoev\src\Lab7_Topoev\Lab7_Topoev\obj\Debug\Lab7_Topoev.exe
+C:\Users\User\Desktop\lab7-topoev\src\Lab7_Topoev\Lab7_Topoev\obj\Debug\Lab7_Topoev.pdb

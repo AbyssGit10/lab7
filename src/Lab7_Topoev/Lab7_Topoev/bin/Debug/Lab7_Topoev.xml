@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Lab7_Topoev</name>
+    </assembly>
+    <members>
+        <member name="T:Lab7_Topoev.DiscountCalculator">
+            <summary> 
+            Класс для расчёта скидок в системе заказов компании «Продукты-24».
+            </summary> 
+        </member>
+        <member name="M:Lab7_Topoev.DiscountCalculator.GetDiscountedPrice(System.Decimal,System.Boolean)">
+            <returns>Цена со скидкой или базовая цена.</returns> 
+        </member>
+    </members>
+</doc>
